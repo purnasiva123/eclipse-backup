@@ -1,0 +1,5 @@
+package com.purna.SpringMvc.dao;
+
+public class EmpDao {
+
+}

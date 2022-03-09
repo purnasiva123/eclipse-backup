@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Request.xml&apos; to &apos;Request.xml&apos;&#x0A;- Original project: &apos;soap-course-management&apos;&#x0A;- Destination element: &apos;Request.xml&apos;&#x0A;- Original element: &apos;Request.xml&apos;" description="Copy file" element1="examples-files/Request.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646631550684" target="/soap-course-management/examples-files/Request.xml" units="0" version="1.0"/>
+</session>

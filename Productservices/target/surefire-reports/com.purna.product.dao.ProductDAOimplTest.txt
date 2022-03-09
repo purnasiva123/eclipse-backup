@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.purna.product.dao.ProductDAOimplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! - in com.purna.product.dao.ProductDAOimplTest
+createShouldCreateProducts(com.purna.product.dao.ProductDAOimplTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.purna.product.dao.ProductDAOimplTest.createShouldCreateProducts(ProductDAOimplTest.java:23)
+

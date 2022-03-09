@@ -1,0 +1,10 @@
+package com.purna.spring.spring.product;
+
+public class QuickSortAlgorithm2 {
+	
+	public int[] sort(int[] numbers) {
+	
+		return numbers;
+	}
+
+}

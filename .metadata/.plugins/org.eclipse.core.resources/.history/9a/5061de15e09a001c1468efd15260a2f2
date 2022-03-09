@@ -1,0 +1,5 @@
+insert into course(id, name) values(10001,'JPA in purna');
+
+insert into student(id,name) values(20001,'purna');
+insert into student(id,name) values(20002,'jyothi');
+insert into student(id,name) values(20003,'siva');

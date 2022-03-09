@@ -1,0 +1,16 @@
+127.0.0.1 - - [17/Feb/2022:05:00:18 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Feb/2022:05:00:28 +0000] "GET /package/number.html HTTP/1.1" 200 306
+127.0.0.1 - - [17/Feb/2022:05:00:28 +0000] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [17/Feb/2022:05:00:39 +0000] "GET /package/Addition?number1=5&number2=10&Submit=Submit+Query HTTP/1.1" 500 1340
+127.0.0.1 - - [17/Feb/2022:05:00:59 +0000] "GET /package/Addition?number1=5&number2=10&Submit=Submit+Query HTTP/1.1" 500 1340
+127.0.0.1 - - [17/Feb/2022:05:04:38 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Feb/2022:05:04:39 +0000] "GET /package/number.html HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2022:05:04:49 +0000] "GET /package/Addition?number1=5&number2=10&Submit=Submit+Query HTTP/1.1" 500 1340
+127.0.0.1 - - [17/Feb/2022:05:06:03 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Feb/2022:05:06:03 +0000] "GET /package/number.html HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2022:05:06:18 +0000] "GET /package/Addition?number1=6&number2=5&Submit=Submit+Query HTTP/1.1" 200 14
+127.0.0.1 - - [17/Feb/2022:05:07:14 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Feb/2022:05:07:15 +0000] "GET /package/number.html HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2022:05:07:23 +0000] "GET /package/Addition?number1=5&number2=5&Submit=Submit+Query HTTP/1.1" 200 14
+127.0.0.1 - - [17/Feb/2022:05:08:54 +0000] "GET /package/hello HTTP/1.1" 200 59
+127.0.0.1 - - [17/Feb/2022:05:09:33 +0000] "GET /package/Demo HTTP/1.1" 200 59

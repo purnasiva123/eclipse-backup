@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="https://purna.com/course">
+	<CourseDetails>
+	<id>123</id>
+	<name>purna</name>
+	<designation>Spring framework</designation>
+	</CourseDetails>
+</GetCourseDetailsResponse>

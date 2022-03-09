@@ -1,0 +1,34 @@
+package com.jdbc;
+import java.sql.*;
+public class Tryjdbc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+
+			String url = "jdbc:mysql://localhost:3306/PURNA";
+			Connection connection = DriverManager.getConnection(url, "root", "Purna@123");
+			Statement statement = connection.createStatement();
+//			int res = statement.executeUpdate("insert into account values(1,'kumar','raj',10000)");
+			int res = statement.executeUpdate("insert into purna1 values(3,'singh','mukesh',12000)");
+			int res = statement.executeUpdate("insert into purna1 values(4,'rtyh','xzcvb',1000)");
+			
+//			ResultSet rs = statement.executeQuery("select * from account");
+//			while(rs.next())
+//			{
+//				System.out.println(rs.getString("lastname"));
+//				System.out.println(rs.getString("firstname"));
+//			}
+			
+			System.out.println(res + "rows affected");
+
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+
+
+	}
+
+}

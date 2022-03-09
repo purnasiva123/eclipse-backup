@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BubbleSortAlgorithm.java&apos; to &apos;spring.product/src/main/java/com.purna.spring.spring.product&apos;&#x0A;- Original project: &apos;spring.product&apos;&#x0A;- Destination element: &apos;spring.product/src/main/java/com.purna.spring.spring.product&apos;&#x0A;- Original element: &apos;com.purna.spring.spring.product.BubbleSortAlgorithm.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.purna.spring.spring.product" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.purna.spring.spring.product{BubbleSortAlgorithm.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1645682473910" units="1" version="1.0"/>
+</session>

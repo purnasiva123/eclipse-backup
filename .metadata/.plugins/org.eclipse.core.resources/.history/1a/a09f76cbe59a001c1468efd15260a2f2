@@ -1,0 +1,15 @@
+insert into course(id, name) values(10001,'JPA in purna');
+
+insert into student(id,name) 
+values(20001,'purna');
+insert into student(id,name) 
+values(20002,'jyothi');
+insert into student(id,name) 
+values(20003,'siva');
+
+insert into passport(id,number) 
+values(40001,'E13445');
+insert into student(id,number) 
+values(40002,'A45660');
+insert into student(id,number) 
+values(40003,'S23456');

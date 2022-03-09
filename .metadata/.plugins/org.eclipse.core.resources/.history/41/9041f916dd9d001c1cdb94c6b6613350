@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="https://purna.com/course" 
+xmlns:tns="https://purna.com/course" elementFormDefault="qualified">
+	<element name="GetCourseDetailsRequest">
+		<complexType>
+			<sequence>
+				<element name= "id" type="integer"></element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>
+
+
+<!-- 
+<GetCourseDetailsRequest xmlns="https://purna.com/course">
+	<id>123</id>
+</GetCourseDetailsRequest>
+ -->

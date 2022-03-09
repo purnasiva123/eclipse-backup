@@ -1,0 +1,23 @@
+package com.purna.jpa.hibernate.demo.repository;
+
+import org.apache.logging.log4j.Logger;
+import org.junit.jupiter.api.Test;
+import org.junit.runner.RunWith;
+import org.slf4j.LoggerFactory;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import com.purna.jpa.hibernate.demo.DemoApplication;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest(classes=DemoApplication.class)
+class CourseRepositoryTest {
+
+	private Logger logger = (Logger) LoggerFactory.getLogger(this.getClass());
+	
+	@Test
+	public void contextLoads() {
+		logger.info("Testing is Running");
+	}
+
+}

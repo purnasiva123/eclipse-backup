@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.purna.producrt.dao.ProductDAOimplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.052 s <<< FAILURE! - in com.purna.producrt.dao.ProductDAOimplTest
+createShouldCreateProducts(com.purna.producrt.dao.ProductDAOimplTest)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	HashMap cannot be resolved to a type
+
+	at com.purna.producrt.dao.ProductDAOimplTest.createShouldCreateProducts(ProductDAOimplTest.java:13)
+

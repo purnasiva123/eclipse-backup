@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="sprintboot-in-10-steps"/>
+<aop-project name="mockito-demo"/>
+<aop-project name="spring.product"/>
+<aop-project name="database-demo"/>
+<aop-project name="SpringMvc"/>
+</aop-reference-model>

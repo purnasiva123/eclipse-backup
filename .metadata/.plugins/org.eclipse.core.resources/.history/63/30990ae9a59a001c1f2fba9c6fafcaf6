@@ -1,0 +1,11 @@
+server.port=8085
+spring.h2.console.enabled=true
+spring.jpa.defer-datasource-initialization=true
+
+spring.jpa.properties.hibernate.generate_statistics=true
+logging.level.org.hibernate.stat=debug
+
+# Show all queries
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.formate_sql=true
+logging.level.org.hibernate.type=debug

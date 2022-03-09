@@ -1,0 +1,1 @@
+CREATE EMPLOYEE(ID int not null,NAME varchar(25),SALARY int(10),DESIGNATION varchar(25) VALUES(1, 'PURNA', 10000, dev));

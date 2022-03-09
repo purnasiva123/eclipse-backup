@@ -1,0 +1,5 @@
+package com.purna.restweservice.restfulwebservices.user;
+
+public class UserNotFoundException extends RuntimeException {
+
+}
